@@ -36,6 +36,11 @@ For the Content Based method, two different datasets containing completely diffe
 Firstly a dataframe with over 10.000 unique Artists, along with the 4 most descriptive tags for each respective artists was scrapped from https://www.last.fm/ 
 When the dataframe was obtained, it had over 2100 different tags in total.  A number that would create many sparse issues and bad recommendations. After applying different techniques and algorithms, the total number of tags was reduced to 432. Tags include properties such as "big" music genres like Rock, Pop, HipHop, or genres which are more desriptive like Punk, Post, or Industrial. **More details are given on the uploaded notebook.**
 
+The Final format of the first Dataset:
+
+![First Dataset](https://user-images.githubusercontent.com/70523417/91741199-0a289700-ebbd-11ea-967a-a3f23245ef01.png)
+
+
 Moreover, the second dataframe regarding the content based approach contains over 232.000 songs, from different music types, where each song had over 12 features. These features are continuous values which describe a specific metric of each song. These metrics include loudness in decibels, valence, which described the musical positiveness of a track, energy and others. **A detailed explanation of what each feature describes is included on the uploaded notebook**. 
 
 Second dataset: https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db
