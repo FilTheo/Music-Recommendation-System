@@ -2,7 +2,8 @@
 
 This work describes my project for the Data Mining course (MSc Data Science University of Skövde)
 
-**In case code not showing up (GitHub issue) try : https://nbviewer.jupyter.org/github/FilTheo/Music-Recommendation-System/blob/master/Code/Music%20Recommendation%20System.ipynb**
+**In case code not showing up (GitHub issue) try:**  
+https://nbviewer.jupyter.org/github/FilTheo/Music-Recommendation-System/blob/master/Code/Music%20Recommendation%20System.ipynb
 
 
 It presents a model which outputs a new playlist given an input song and its respective artist.
