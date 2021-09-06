@@ -39,10 +39,16 @@ Step3: Item-Based Collaborative Filtering
 Item-based similarity based on user reviews is considered and the top-20 songs are proposed.
 
 #### Examples
+
+Pop Recommendations:
 ![Χωρίς τίτλο5](https://user-images.githubusercontent.com/70523417/91743103-f894be80-ebbf-11ea-8040-c60e3536a745.png)
+Classic Rock Recommendations:
 ![Χωρίς τίτλο9](https://user-images.githubusercontent.com/70523417/91743371-60e3a000-ebc0-11ea-9131-50a7fa4f4c98.png)
+HipHop Recommendations:
 ![Χωρίς τίτλο6](https://user-images.githubusercontent.com/70523417/91743375-617c3680-ebc0-11ea-8bb3-1a91c382db14.png)
+PostRock Recommendations:
 ![Χωρίς τίτλο7](https://user-images.githubusercontent.com/70523417/91743381-62ad6380-ebc0-11ea-9745-7def78c3bc8a.png)
+Heavy Metal Recommendations:
 ![Χωρίς τίτλο8](https://user-images.githubusercontent.com/70523417/91743367-5fb27300-ebc0-11ea-8d24-8e6a80cd9592.png)
 
 
