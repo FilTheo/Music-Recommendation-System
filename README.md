@@ -6,20 +6,19 @@ This work describes my project for the Data Mining course (MSc Data Science Univ
 https://nbviewer.jupyter.org/github/FilTheo/Music-Recommendation-System/blob/master/Code/Music%20Recommendation%20System.ipynb
 
 
-It presents a model which outputs a new playlist given an input song and its respective artist.
+The project is about a model which outputs a new playlist given an input song and its respective artist.
 (The working version of the project updates the playlist as users pick extra songs)
 
 The model returns a complete playlist instead of a single song to deal with the uncertainty originating from the unique musical taste of each individual.
 It is very hard, even for a human, to perfectly recommend a single song given just one hint.
 The idea is that by proposing a full playlist users will be forced to pick more songs providing additional information to the algorithm to improve its predictions
-(Current version outputs a single library)
 
 The recommendation system is based on a Hybrid Approach combining the advantages of both content-based and collaborative filtering techniques.
 In particular, it combines information from three different sources.
 
 
 #### DATA
-First, tags giving a representative description of each artist available are scrapped from LastFM.
+First, tags (ie keywords) giving a representative description of each artist are scrapped from LastFM.
 **Extensive feature engineer** (Noise removal, tags combination through similarity measures, hierarchical representations, Association Rule Mining) took place to reduce the number of total tags and convert them to informative values.
 For details refer to supplementary material (report, presentation, code)
 
